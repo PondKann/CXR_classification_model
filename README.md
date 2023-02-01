@@ -2,11 +2,11 @@
 ## Senior Project [Link](https://drive.google.com/file/d/1yGd7HzOW5bCSdhWtzmNXORYfdoAf2A4V/view?usp=sharing)
 
    
-![โครงสร้าง CNN](โครงสร้าง CNN.jpg)
-
-
     โมเดล DenseNet201 มีทั้งหมด 709 layers แบ่งเป็น ชั้นของ Convolutional Neural Network (CNN) 707 layers และ Neural Network (NN) 2 layers 
     โมเดล แต่ละเลเยอร์ ใน CNN จะมี Initial Weight หรือ Weight เริ่มต้นมาด้วย 
+    
+![โครงสร้างCNN](โครงสร้างCNN.jpg)
+     
     
    Pretrained
    
@@ -18,4 +18,4 @@
    
     Finetune คือ การเทรนโมเดลเพื่อหา Weight ใหม่ ในทุก layer โดยใช้ชุดข้อมูลของเรา (CXR img)
     
-    ปล. ชุดข้อมูลของเรา (CXR img) คือ ภาพเอกซเรย์ทรวงอกของปอดปกติ มะเร็งปอด และวัณโรค รวมทั้งหมด 450 ภาพ
+   ปล. ชุดข้อมูลของเรา (CXR img) คือ ภาพเอกซเรย์ทรวงอกของปอดปกติ มะเร็งปอด และวัณโรค รวมทั้งหมด 450 ภาพ
