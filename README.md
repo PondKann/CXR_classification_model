@@ -2,7 +2,8 @@
 ## Senior Project [Link](https://drive.google.com/file/d/1yGd7HzOW5bCSdhWtzmNXORYfdoAf2A4V/view?usp=sharing)
 
    
-  รูปเล่มโปรเจค หน้า 8
+![โครงสร้าง CNN](โครงสร้าง CNN.jpg)
+
 
     โมเดล DenseNet201 มีทั้งหมด 709 layers แบ่งเป็น ชั้นของ Convolutional Neural Network (CNN) 707 layers และ Neural Network (NN) 2 layers 
     โมเดล แต่ละเลเยอร์ ใน CNN จะมี Initial Weight หรือ Weight เริ่มต้นมาด้วย 
